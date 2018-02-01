@@ -15,8 +15,8 @@ stand-alone packages contained within this repository can be used.
 
 ## Workflow for using stand-alone packages
 
-1. Run the pdbParser script to retrieve the Carbon-alpha atoms for two end-state structures
-2. The output files from step 1 (i.e. start and target end-state strucutres) are used as input to execute the eBDIMS simulation
+1. Run the [pdbParser script](https://github.com/ozyo/pdbParser) to retrieve the Carbon-alpha atoms for two end-state structures
+2. The output files from step 1 (i.e. start and target end-state strucutres) are used as input to execute the [eBDIMS simulation](https://github.com/cabergh/eBDIMS)
 
 ## References
 
