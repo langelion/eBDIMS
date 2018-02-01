@@ -1,7 +1,6 @@
 # eBDIMS scripts
 
-This repository contains code used at https://login.biophysics.kth.se/eBDIMS.
-It is a fork of the following repositories:
+This repository forks code that is used to run the [eBDIMS path-sampling server](https://login.biophysics.kth.se/eBDIMS).
 
 * [pdbParser](https://github.com/ozyo/pdbParser)
 * [eBDIMS](https://github.com/cabergh/eBDIMS)
